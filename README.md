@@ -35,7 +35,7 @@ No need to manually edit configuration files or remember API endpoints.
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-code-switcher.git
+git clone https://github.com/iudofia2026/claude-code-switcher.git
 cd claude-code-switcher
 chmod +x install.sh
 ./install.sh
