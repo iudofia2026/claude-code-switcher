@@ -1,0 +1,14 @@
+# Ignore actual settings files with API keys
+settings.json
+settings-zai.json
+settings-anthropic.json
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

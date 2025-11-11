@@ -1,0 +1,10 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "YOUR_ZAI_API_KEY_HERE",
+    "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
+    "API_TIMEOUT_MS": "3000000",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+  },
+  "alwaysThinkingEnabled": false,
+  "model": "opus"
+}
